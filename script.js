@@ -1,1 +1,1 @@
-// Print Good Afternoon using document.write()
+// Print Good Afternoon using document.writeln()
